@@ -1,0 +1,16 @@
+campaign_id,campaign_name,channel,month,impressions,clicks,conversions,ad_spend,revenue
+1,Winter Sale,Google Ads,2026-01,120000,5400,270,2700,13500
+2,Winter Sale,Instagram Ads,2026-01,95000,3800,152,1900,7600
+3,Winter Sale,Facebook Ads,2026-01,85000,2550,102,1700,5100
+4,Winter Sale,Email Marketing,2026-01,20000,2400,240,400,12000
+5,Winter Sale,TikTok Ads,2026-01,150000,4500,90,2250,4500
+6,Valentine Sale,Google Ads,2026-02,135000,6750,405,3375,20250
+7,Valentine Sale,Instagram Ads,2026-02,110000,5500,275,2200,13750
+8,Valentine Sale,Facebook Ads,2026-02,90000,3150,126,1800,6300
+9,Valentine Sale,Email Marketing,2026-02,25000,3250,325,500,16250
+10,Valentine Sale,TikTok Ads,2026-02,180000,6300,189,2700,9450
+11,Spring Launch,Google Ads,2026-03,160000,8000,480,4000,24000
+12,Spring Launch,Instagram Ads,2026-03,130000,6500,390,2600,19500
+13,Spring Launch,Facebook Ads,2026-03,100000,3500,140,2000,7000
+14,Spring Launch,Email Marketing,2026-03,30000,4200,420,600,21000
+15,Spring Launch,TikTok Ads,2026-03,210000,8400,252,3150,12600
