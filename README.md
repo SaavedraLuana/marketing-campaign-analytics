@@ -2,10 +2,9 @@
 
 ## Project Overview
 
-This project explores digital marketing campaign performance through data analysis, using SQL, Python and business KPIs to evaluate marketing effectiveness, customer acquisition and financial returns.
-
-The project uses a simulated e-commerce marketing dataset to investigate how different advertising channels contribute to business growth.
-
+The project uses real-world anonymized advertising data
+to investigate campaign performance, customer engagement
+and conversion effectiveness.
 ## Business Objectives
 
 - Evaluate marketing campaign performance.
@@ -52,7 +51,25 @@ The project uses a simulated e-commerce marketing dataset to investigate how dif
 
 ## Data Source
 
-This project uses synthetic marketing data created for educational and analytical purposes. It does not represent an actual company's financial or customer information.
+## Data Source
+
+This project will use publicly available, anonymized
+advertising data from the Criteo Attribution Modeling
+for Bidding Dataset.
+
+Source:
+https://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/
+
+The analysis aims to explore real-world advertising
+performance, customer engagement, conversion behaviour
+and marketing attribution.
+
+The dataset contains transformed cost values to protect
+commercial information. This limitation will be considered
+when interpreting financial performance.
+
+The project is intended for educational and research purposes.
+
 
 ## Project Status
 
